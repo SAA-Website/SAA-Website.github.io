@@ -1,8 +1,11 @@
 # SAA-Homepage
-This is the homepage under development for SAA.
-Click here.[https://saa-website.github.io/] to visited the current homepage.
+This is a brand-new homepage under development for SAA.
+Click [here](https://saa-website.github.io/). to visited the current homepage. We appreciate your opening an issue [here](https://github.com/SAA-Website/SAA-Website.github.io), if you've got some sugguestions or found some bugs.
 
-## Help on Event Jekyll Theme
+## Jekyll Theme
+The template for the website comes from Jekyll. The following is the help on how to use the template.
+
+### Help on Event Jekyll Theme
 Event Jekyll Theme is a theme that is designed to be used for conference and event purposes. The index page is a modification and built on top of [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme). Unlike most Jekyll Themes, Event Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your organization's event as it come with almost everything you need. I reorganized all the files to make sure that you can easily reuse the same template each year (or each month, depending on how you organize the path), assuming that you event is once a year. 
 
 Big thanks to the creator of Agency as this theme would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
